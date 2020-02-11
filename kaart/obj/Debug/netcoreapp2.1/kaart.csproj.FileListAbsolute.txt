@@ -1,0 +1,11 @@
+C:\Users\Pascal\RiderProjects\kaart\kaart\bin\Debug\netcoreapp2.1\kaart.deps.json
+C:\Users\Pascal\RiderProjects\kaart\kaart\bin\Debug\netcoreapp2.1\kaart.runtimeconfig.json
+C:\Users\Pascal\RiderProjects\kaart\kaart\bin\Debug\netcoreapp2.1\kaart.runtimeconfig.dev.json
+C:\Users\Pascal\RiderProjects\kaart\kaart\bin\Debug\netcoreapp2.1\kaart.dll
+C:\Users\Pascal\RiderProjects\kaart\kaart\bin\Debug\netcoreapp2.1\kaart.pdb
+C:\Users\Pascal\RiderProjects\kaart\kaart\obj\Debug\netcoreapp2.1\kaart.csprojAssemblyReference.cache
+C:\Users\Pascal\RiderProjects\kaart\kaart\obj\Debug\netcoreapp2.1\kaart.csproj.CoreCompileInputs.cache
+C:\Users\Pascal\RiderProjects\kaart\kaart\obj\Debug\netcoreapp2.1\kaart.AssemblyInfoInputs.cache
+C:\Users\Pascal\RiderProjects\kaart\kaart\obj\Debug\netcoreapp2.1\kaart.AssemblyInfo.cs
+C:\Users\Pascal\RiderProjects\kaart\kaart\obj\Debug\netcoreapp2.1\kaart.dll
+C:\Users\Pascal\RiderProjects\kaart\kaart\obj\Debug\netcoreapp2.1\kaart.pdb
